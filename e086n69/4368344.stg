@@ -28,3 +28,4 @@ OBJECT_SHARED Models/lib/coal_pile.ac 86.16120 69.37759 9.73 65.45
 OBJECT_SHARED Models/lib/coal_pile.ac 86.15991 69.37690 10.30 90
 OBJECT_SHARED Models/lib/coal_pile.ac 86.15905 69.37690 10.19 177.66
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac 86.216841 69.408828 67.46 180
